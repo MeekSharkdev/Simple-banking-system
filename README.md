@@ -1,2 +1,4 @@
-# Simple-banking-system
-A simple banking system project built in C++, focusing on core backend logic with no user interface.
+## How to Run
+1. Open `main.cpp`
+2. Compile using any C++ compiler
+3. Run the program
